@@ -1,0 +1,10 @@
+project_id = "zizdgmdrplsphomwwkzd"
+
+[functions.analyze-audio]
+verify_jwt = false
+
+[functions.find-matches]
+verify_jwt = false
+
+[functions.generate-remix]
+verify_jwt = false
